@@ -2988,11 +2988,11 @@ height:0.25%;
 {
   div.block14
 {
-z-index:3;
+z-index:5;
 position:absolute;
-margin-top:188.50%;
+margin-top:288.50%;
 width :auto;
-height:75%;
+height:auto;
 border:0.0625rem solid black;
 }
 }
