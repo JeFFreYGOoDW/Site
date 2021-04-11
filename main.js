@@ -1,11 +1,3 @@
-
-$ git remote add origin https://github.com/JeFFreYGOoDW/site2.git
-
-$ git push -u origin main
-
-
-
-
 $(document).ready(function (){
     openModal();//вызываем нашу функцию
 });
