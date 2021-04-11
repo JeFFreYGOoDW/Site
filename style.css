@@ -74,7 +74,7 @@
 
 body
 {
-max-height:12000px;
+height:auto;
 overflow-x:hidden;
 font-family:Lobster;
 }
