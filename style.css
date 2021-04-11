@@ -48,7 +48,7 @@
   }
 }
 
-@media (max-width: 760px) 
+@media (max-width: 768px) 
 {
   html 
   {
@@ -79,7 +79,7 @@ overflow-x:hidden;
 font-family:Lobster;
 }
 
-@media (min-width: 768px), and  (max-width: 1200px)
+@media (max-width: 768px)
 
 {
 .blockdrov
