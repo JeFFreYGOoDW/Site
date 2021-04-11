@@ -84,6 +84,7 @@ font-family:Lobster;
 {
 .blockdrov
 {
+z-index:2;
 position:absolute;
 width :100.0%;
 height:50.0%;
