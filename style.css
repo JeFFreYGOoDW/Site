@@ -2991,8 +2991,8 @@ height:0.25%;
 z-index:5;
 position:absolute;
 margin-top:288.50%;
-width :auto;
-height:auto;
+width :25%;
+height:25%;
 border:0.0625rem solid black;
 }
 }
@@ -3226,8 +3226,8 @@ border:0.0625rem solid black;
 {
 position:absolute;
 margin-top:15%;
-width :25%;
-height:50%;
+width :15%;
+height:25%;
 border-radius:48.5%;
 border:0.0625rem solid black;
 }
@@ -3279,8 +3279,8 @@ height:auto;
 position:absolute;
 margin-top:15%;
 margin-left:35%;
-width :25%;
-height:50%;
+width :15%;
+height:25%;
 border-radius:48.5%;
 border:0.0625rem solid black;
 }
@@ -3331,8 +3331,8 @@ height:auto;
 position:absolute;
 margin-top:15%;
 margin-left:70%;
-width :25%;
-height:50%;
+width :15%;
+height:25%;
 border-radius:48.5%;
 border:0.0625rem solid black;
 }
