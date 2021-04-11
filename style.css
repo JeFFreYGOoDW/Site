@@ -262,6 +262,20 @@ background-color:white;
 cursor:pointer;
 }
 
+@media (min-width: 768px), and (max-width: 1200px)      
+
+{
+h5.menu1
+{
+position:absolute;
+transform:scale(1.90);
+margin-top :23.5%;
+margin-left:55.0%;
+color:gray;
+letter-spacing:0.015rem;
+}
+}
+
 @media (min-width: 1200px), and (max-width: 1400px)      
 
 {
@@ -281,6 +295,20 @@ letter-spacing:0.015rem;
 color:black;
 }
 
+@media (min-width: 768px), and  (max-width: 1200px)
+
+{
+ hr.cherta1
+{
+position:absolute;
+background-color:white;
+margin-top :20.5%;
+margin-left:14.5%;
+width :19.55%;
+height: 1.50%;
+}
+}
+
 @media (min-width: 1200px), and  (max-width: 1400px)
 
 {
@@ -289,6 +317,20 @@ color:black;
 position:absolute;
 background-color:white;
 margin-top :20.5%;
+margin-left:14.5%;
+width :19.55%;
+height: 1.50%;
+}
+}
+
+@media (min-width: 768px), and  (max-width: 1200px)
+
+{
+ hr.cherta2
+{
+position:absolute;
+background-color:white;
+margin-top :25.5%;
 margin-left:14.5%;
 width :19.55%;
 height: 1.50%;
@@ -307,6 +349,20 @@ margin-left:14.5%;
 width :19.55%;
 height: 1.50%;
 }
+}
+
+@media (min-width: 768px), and (max-width: 1200px)      
+
+{
+  hr.cherta3
+  {
+	position:absolute;
+    background-color:white;
+	margin-top :30.5%;
+    margin-left:14.5%;
+	width :19.55%;
+	height: 1.50%;
+  }
 }
 
 @media (min-width: 1200px), and (max-width: 1400px)      
@@ -344,6 +400,18 @@ background-color:black;
 height: 2.00%;
 }
 
+@media (min-width: 768px), and (max-width: 1200px)      
+{
+.block3
+{
+position:absolute;
+margin-left:25%;
+width :55%;
+height:5%;
+border:0.0625rem solid black;
+}
+}
+
 @media (min-width: 1200px), and (max-width: 1400px)      
 {
 .block3
@@ -353,6 +421,19 @@ margin-left:25%;
 width :55%;
 height:5%;
 border:0.0625rem solid black;
+}
+}
+
+@media (min-width: 768px), and (max-width: 1200px)      
+
+{
+.wooder1
+{
+position:absolute;
+transform:scale(1.75);
+color:gray;
+margin-top :3.5%;
+margin-left:17.5%;
 }
 }
 
@@ -375,6 +456,20 @@ color:orange;
 cursor:pointer;
 }
 
+@media (min-width: 768px), and (max-width: 1200px)      
+
+{
+ hr.cherta4
+{
+position:absolute;
+background-color:gray;
+margin-top :4.75%;
+margin-left:18.5%;
+width: 4.25%;
+height:1.75%;
+}
+}
+
 @media (min-width: 1200px), and (max-width: 1400px)      
 
 {
@@ -393,6 +488,20 @@ height:1.75%;
 {
 background-color:orange;
 height:1.75%;
+}
+
+@media (min-width: 768px), and (max-width: 1200px)      
+
+{
+ h5.home
+  {
+position:absolute;
+transform:scale(1.95);
+margin-top :4.25%;
+margin-left:43%;
+color:gray;
+letter-spacing:0.10rem;
+  }
 }
 
 @media (min-width: 1200px), and (max-width: 1400px)      
@@ -415,6 +524,20 @@ color:orange;
 cursor:pointer;
 }
 
+@media (min-width: 768px), and (max-width: 1200px)      
+
+{
+ h5.products
+{
+position:absolute;
+transform:scale(1.95);
+margin-top :4.25%;
+margin-left:63%;
+color:gray;
+letter-spacing:0.10rem;
+}
+}
+
 @media (min-width: 1200px), and (max-width: 1400px)      
 
 {
@@ -435,6 +558,19 @@ color:orange;
 cursor:pointer;
 }
 
+@media (min-width: 768px), and (max-width: 1200px)      
+{
+ h5.about
+ {
+position:absolute;
+transform:scale(1.95);
+margin-top :4.25%;
+margin-left:86.5%;
+letter-spacing:0.10rem;
+color:gray;
+}
+}
+
 @media (min-width: 1200px), and (max-width: 1400px)      
 {
  h5.about
@@ -452,6 +588,19 @@ color:gray;
 {
 color:orange;
 cursor:pointer;
+}
+
+@media (min-width: 768px), and (max-width: 1200px)
+
+{
+.block5
+{
+position:absolute;
+margin-left:88.75%;
+width :11.11%;
+height:5.5%;
+border:0.0625rem solid black;
+}
 }
 
 @media (min-width: 1200px), and (max-width: 1400px)
@@ -526,6 +675,20 @@ cursor:pointer;
 color:black;
 }
 
+@media (min-width: 768px), and (max-width: 1200px)      
+
+{
+.icon
+{
+position:absolute;
+transform:scale(3.00);
+margin-top :16.00%;
+margin-left:12.00%;
+font-weight:900%;
+color:white;
+}
+}
+
 @media (min-width: 1200px), and (max-width: 1400px)      
 
 {
@@ -558,6 +721,19 @@ color:white;
 color:black;
 }
 
+@media (min-width: 768px), and (max-width: 1200px)      
+
+{
+.ramkaflaga
+{
+position:absolute;
+margin-top :14.95%;
+margin-left:24.50%;
+width :15%;
+height: 5%;
+}
+}
+
 @media (min-width: 1200px), and (max-width: 1400px)      
 
 {
@@ -568,6 +744,18 @@ margin-top :14.95%;
 margin-left:24.50%;
 width :15%;
 height: 5%;
+}
+}
+
+@media (min-width: 768x), and (max-width: 1200px)      
+
+{
+.flag
+{
+position:absolute;
+transition:2s all;
+width:100%;
+height:auto;
 }
 }
 
@@ -593,6 +781,20 @@ transform:scale(0.55) rotate(90deg);
 }
 }
 
+@media (min-width: 768x), and (max-width: 1200px)      
+
+{
+h5.rus
+{
+position:absolute;
+transform:scale(1.75);
+margin-top :17.5%;
+margin-left:55.5%;
+color:white;
+letter-spacing:0.10rem;
+}
+}
+
 @media (min-width: 1200px), and (max-width: 1400px)      
 
 {
@@ -610,6 +812,18 @@ letter-spacing:0.10rem;
 .block5:hover h5.rus
 {
 color:black;	
+}
+
+@media (min-width: 768px), and (max-width: 1200px) 
+{
+.content1
+{
+position:absolute;
+margin-top:4.45%;
+width :33.33%;
+height:100%;
+border:0.0625rem solid white;
+}
 }
 
 
