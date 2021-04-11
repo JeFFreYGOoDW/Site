@@ -3926,6 +3926,21 @@ width :6.75%;
 height:0.35%;
 }
 }
+	
+	
+@media (min-width: 768px), and (max-width: 1200px)
+
+{
+  div.block18
+{
+position:absolute;
+margin-top :274.00%;
+margin-left:  0.15%;
+width :99.85%;
+height:  5%;
+border:0.0625rem solid transparent;
+}
+}
 
 @media (min-width: 1200px), and (max-width: 1300px)
 
